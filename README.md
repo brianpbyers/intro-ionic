@@ -16,7 +16,7 @@ The idea is that one app, generated with HTML, CSS, and JS, can operate on the w
 
 ## Your first app
 
-The newst version of Ionic allows you to create an app in one line.  Use [this guide](https://ionicframework.com/getting-started/) to get started.
+The newest version of Ionic allows you to create an app in one line.  Use [this guide](https://ionicframework.com/getting-started/) to get started.
 
 When creating your first app, you will be asked to `Create a free Ionic account`.  This will allow you to test your app on your phone, so type `y` when prompted.  Fill in all the fields in the signup dialog that opens.
 
@@ -70,7 +70,7 @@ In order to deploy to an iOS device, you need to go through a [little setup in X
 
 ## Building for Android
 
-We don't have enough time to discuss Android in this class, but the process for local testing is similar to that for XCode.  Your first step is to download [Android Studio](https://developer.android.com/studio/index.html).  See the resources below for more details on deploying.
+We don't have enough time to discuss Android in this class, but the process for local testing is similar to that for XCode/iOS.  Your first step is to download [Android Studio](https://developer.android.com/studio/index.html).  See the resources below for more details on deploying.
 
 ## Resources
 
