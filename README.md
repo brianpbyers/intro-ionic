@@ -62,6 +62,8 @@ Run `ionic upload`.  You will be prompted to log in, using your credentials from
 
 Log in to `Ionic View` on your phone with the same credentials.  You should now see your fancy new project.  Click on it and select `View App`.  This is the version of the app your users would see on their phone (assuming they have the same model as you).  Also notice that you can give app feedback in this interface.  Play around with it.  Seems like a real phone app, right?
 
+Also, if you want to see your Apps online, you can go to your [Ionic App Dashboard](https://apps.ionic.io/apps/)
+
 ## Building for iOS
 
 In order to deploy to an iOS device, you need to go through a [little setup in Xcode](https://ionicframework.com/docs/v2/setup/deploying/).  Once this is done, though, you can open your iOS app that will actually be on the App Store once you get through the App approval process.  Let's see how that happens.
