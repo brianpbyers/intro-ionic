@@ -1,3 +1,5 @@
+<!--2:30 5 minutes -->
+
 # Intro to Ionic
 
 ## Objectives
@@ -13,6 +15,8 @@
 >**From Wikipedia:** Ionic is a complete open-source SDK for hybrid mobile app development. Built on top of **AngularJS** and **Apache Cordova**, Ionic provides tools and services for developing hybrid mobile apps using Web technologies like CSS, HTML5, and Sass. Apps can be built with these Web technologies and then distributed through native app stores to be installed on devices by leveraging Cordova. Ionic was created by Max Lynch, Ben Sperry, and Adam Bradley of Drifty Co. in 2013.
 
 The idea is that one app, generated with HTML, CSS, and JS, can operate on the web, for iOS devices, for Android devices, and more.
+
+<!--2:35 15 minutes -->
 
 ## Your first app
 
@@ -44,13 +48,15 @@ Go into the `pages` folder inside `src`, and edit the `Home` template's HTML fil
 
 If you have `ionic lab` or `ionic serve` running, your page will magically refresh.  Cool, right?
 
+<!--2:50 15 minutes -->
+
 ## Tutorial
 
 There is another Ionic project type for `tutorial`.  Exit out of your project, go back to your work folder, and follow the steps in [this tutorial](https://ionicframework.com/docs/v2/setup/tutorial/) to get a little more familiar with the Ionic structure and features.  It does not go into much detail, but is a good introduction.  Read all the steps as carefully as possible.
 
 Once you finish the tutorial, put your new lessons into action.  Create a new page called `about` that tells the user all about you.  Make sure this page is accessible from the Ionic Menu, the same way `Hello Ionic` and `My First List` are.
 
-<!--Everyone come back ~6:30 to show how to test with Ionic View and XCode.  If possible, get folks to download Ionic View before class re-starts.-->
+<!--3:05 15 minutes-->
 
 ## Testing on your phone
 
@@ -64,6 +70,8 @@ Log in to `Ionic View` on your phone with the same credentials.  You should now 
 
 Also, if you want to see your Apps online, you can go to your [Ionic App Dashboard](https://apps.ionic.io/apps/)
 
+<!--3:20 10 minutes -->
+
 ## Building for iOS
 
 In order to deploy to an iOS device, you need to go through a [little setup in Xcode](https://ionicframework.com/docs/v2/setup/deploying/).  Once this is done, though, you can open your iOS app that will actually be on the App Store once you get through the App approval process.  Let's see how that happens.
@@ -73,6 +81,8 @@ In order to deploy to an iOS device, you need to go through a [little setup in X
 ## Building for Android
 
 We don't have enough time to discuss Android in this class, but the process for local testing is similar to that for XCode/iOS.  Your first step is to download [Android Studio](https://developer.android.com/studio/index.html).  See the resources below for more details on deploying.
+
+<!--Once done, intro Angular 2 tutorial -->
 
 ## Resources
 
