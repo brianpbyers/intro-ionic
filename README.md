@@ -46,7 +46,7 @@ Take a couple minutes to familiarize yourself with the files in the `src` folder
 
 Go into the `pages` folder inside `src`, and edit the `Home` template's HTML file to include your name and a basic description of the app you would like to build for Project 4.  No need to change or move any tags, just edit a little text, and save the file.
 
-If you have `ionic lab` or `ionic serve` running, your page will magically refresh.  Cool, right?
+If you have `ionic lab` or `ionic serve` running, your page will magically refresh every time you save your files.  Cool, right?
 
 <!--2:50 15 minutes -->
 
@@ -74,7 +74,7 @@ Also, if you want to see your Apps online, you can go to your [Ionic App Dashboa
 
 ## Building for iOS
 
-In order to deploy to an iOS device, you need to go through a [little setup in Xcode](https://ionicframework.com/docs/v2/setup/deploying/).  Once this is done, though, you can open your iOS app that will actually be on the App Store once you get through the App approval process.  Let's see how that happens.
+In order to deploy to an iOS device, you need to go through a [little setup in Xcode](https://ionicframework.com/docs/intro/deploying/).  Once this is done, though, you can open your iOS app that will actually be on the App Store once you get through the App approval process.  Let's see how that happens.
 
 <!-- Instructor demo the non-setup steps like ionic build, and opening on the phone -->
 
