@@ -1,3 +1,4 @@
+<!--WDI3 2:34 -->
 <!--2:30 5 minutes -->
 
 # Intro to Ionic
@@ -16,6 +17,7 @@
 
 The idea is that one app, generated with HTML, CSS, and JS, can operate on the web, for iOS devices, for Android devices, and more.
 
+<!--2:38 WDI3 -->
 <!--2:35 15 minutes -->
 
 ## Your first app
@@ -33,6 +35,8 @@ There are two quick ways to run your app.
 
 Woo hoo, we're coding superheroes!  Now let's dive into the code.
 
+<!--2:50 WDI3 -->
+
 ## App structure
 
 An Ionic app has several folders.  The two most important ones are:
@@ -42,12 +46,15 @@ An Ionic app has several folders.  The two most important ones are:
 
 Take a couple minutes to familiarize yourself with the files in the `src` folder.  Discuss with a partner your main takeaways from the files, and the code within them.
 
+<!--2:57 WDI3-->
+
 ## Make it your own
 
 Go into the `pages` folder inside `src`, and edit the `Home` template's HTML file to include your name and a basic description of the app you would like to build for Project 4.  No need to change or move any tags, just edit a little text, and save the file.
 
 If you have `ionic lab` or `ionic serve` running, your page will magically refresh every time you save your files.  Cool, right?
 
+<!--3:00 WDI3 -->
 <!--2:50 15 minutes -->
 
 ## Tutorial
@@ -64,7 +71,7 @@ The easiest way to test your live app on your phone is with an app called `Ionic
 
 Next, go into the directory of one of your Ionic apps that we created earlier.
 
-Run `ionic upload`.  You will be prompted to log in, using your credentials from earlier in class when you created a free Ionic account.
+Run `ionic link`.  You will be prompted to log in, using your credentials from earlier in class when you created a free Ionic account.
 
 Log in to `Ionic View` on your phone with the same credentials.  You should now see your fancy new project.  Click on it and select `View App`.  This is the version of the app your users would see on their phone (assuming they have the same model as you).  Also notice that you can give app feedback in this interface.  Play around with it.  Seems like a real phone app, right?
 
