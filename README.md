@@ -77,6 +77,8 @@ If prompted, hit enter to select "Create a new app".
 
 You will be prompted to log in, using your credentials from earlier in class when you created a free Ionic account.
 
+Run `ionic upload`.  This will push your latest changes to Ionic.
+
 Log in to `Ionic View` on your phone with the same credentials.  You should now see your fancy new project.  Click on it and select `View App`.  This is the version of the app your users would see on their phone (assuming they have the same model as you).  Also notice that you can give app feedback in this interface.  Play around with it.  Seems like a real phone app, right?
 
 Also, if you want to see your Apps online, you can go to your [Ionic App Dashboard](https://apps.ionic.io/apps/)
