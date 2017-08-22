@@ -24,7 +24,9 @@ The idea is that one app, generated with HTML, CSS, and JS, can operate on the w
 
 The newest version of Ionic allows you to create an app in one line.  Use [this guide](https://ionicframework.com/getting-started/) to get started.
 
-When creating your first app, you will be asked to `Create a free Ionic account`.  This will allow you to test your app on your phone, so type `y` when prompted.  Fill in all the fields in the signup dialog that opens.
+When creating your first app, it will ask if you want to get automatic updates.  Type `y` when prompted.
+
+When creating your first app, you will also be asked to `Create a free Ionic account`.  This will allow you to test your app on your phone, so type `y` when prompted.  Fill in all the fields in the signup dialog that opens.
 
 Enter a name for your first app.
 
@@ -59,7 +61,7 @@ If you have `ionic lab` or `ionic serve` running, your page will magically refre
 
 ## Tutorial
 
-There is another Ionic project type for `tutorial`.  Exit out of your project, go back to your work folder, and follow the steps in [this tutorial](https://ionicframework.com/docs/v2/setup/tutorial/) to get a little more familiar with the Ionic structure and features.  It does not go into much detail, but is a good introduction.  Read all the steps as carefully as possible.
+There is another Ionic project type for `tutorial`.  Exit out of your project, go back to your work folder, and follow the steps in [this tutorial](https://ionicframework.com/docs/intro/tutorial/) to get a little more familiar with the Ionic structure and features.  It does not go into much detail, but is a good introduction.  Read all the steps as carefully as possible.
 
 Once you finish the tutorial, put your new lessons into action.  Create a new page called `about` that tells the user all about you.  Make sure this page is accessible from the Ionic Menu, the same way `Hello Ionic` and `My First List` are.
 
@@ -67,7 +69,7 @@ Once you finish the tutorial, put your new lessons into action.  Create a new pa
 
 ## Testing on your phone
 
-The easiest way to test your live app on your phone is with an app called `Ionic View`, available for iOS and Android.  Download this app on your phone first.
+The easiest way to test your live app on your phone is with an app called [`Ionic View`](https://docs.ionic.io/tools/view/), available for iOS and Android.  Download this app on your phone first.
 
 Next, go into the directory of one of your Ionic apps that we created earlier.
 
@@ -75,7 +77,9 @@ Run `ionic link`.
 
 If prompted, hit enter to select "Create a new app".
 
-You will be prompted to log in, using your credentials from earlier in class when you created a free Ionic account.
+This will open a browser tab.  You may be prompted to log in, using your credentials from earlier in class when you created a free Ionic account.
+
+Run `ionic link` one more time in the Terminal.  This time, select the name of the App you just created.
 
 Run `ionic upload`.  This will push your latest changes to Ionic.
 
@@ -96,6 +100,14 @@ In order to deploy to an iOS device, you need to go through a [little setup in X
 We don't have enough time to discuss Android in this class, but the process for local testing is similar to that for XCode/iOS.  Your first step is to download [Android Studio](https://developer.android.com/studio/index.html).  See the resources below for more details on deploying.
 
 <!--Once done, intro Angular 2 tutorial -->
+
+## Homework
+
+For homework, we would like you to take your initial `tabs` Ionic app and add some of the features we introduced during the Angular week.  Choose 2 of the following to implement in your Ionic app:
+
+1. **`Http`**: make an API call to an open API like the [StarWars API](http://swapi.co/).  You can use [this lesson](https://github.com/den-materials/angular/blob/master/lectures/day-3/observables/README.md) as a reference.
+2. **Routing**:  Add a URL parameter and a nested route to your set of routes.  You can use [this lesson](https://github.com/den-materials/angular/blob/master/lectures/day-2/url_params.md) and [this lesson](https://github.com/den-materials/angular/blob/master/lectures/day-2/nesting.md) as a reference.
+3. **Forms**: Add a new model for data that is kept in sync between an HTML form and the Typescript using `[(ngModel)]`.  You can use [this lab](https://github.com/den-materials/angular-comments) as a reference.
 
 ## Resources
 
