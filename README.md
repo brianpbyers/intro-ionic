@@ -1,4 +1,5 @@
 <!--WDI3 2:34 -->
+<!--WDI4 1:43 -->
 <!--2:30 5 minutes -->
 
 # Intro to Ionic
@@ -37,6 +38,9 @@ There are two quick ways to run your app.
 
 Woo hoo, we're coding superheroes!  Now let's dive into the code.
 
+<!--WDI4 1:48 turning over to devs -->
+<!--WDI4 coming back 1:55 -->
+
 <!--2:50 WDI3 -->
 
 ## App structure
@@ -48,6 +52,8 @@ An Ionic app has several folders.  The two most important ones are:
 
 Take a couple minutes to familiarize yourself with the files in the `src` folder.  Discuss with a partner your main takeaways from the files, and the code within them.
 
+<!--WDI4 2:00 turning over to devs -->
+<!--WDI4 coming back 2:05  -->
 <!--2:57 WDI3-->
 
 ## Make it your own
@@ -57,7 +63,11 @@ Go into the `pages` folder inside `src`, and edit the `Home` template's HTML fil
 If you have `ionic lab` or `ionic serve` running, your page will magically refresh every time you save your files.  Cool, right?
 
 <!--3:00 WDI3 -->
+<!--WDI4 2:08 turning over to devs -->
+<!--WDI4 coming back 2:11  -->
 <!--2:50 15 minutes -->
+
+<!--THIS TUTORIAL WAS AWFUL AS OF AUGUST 22, 2017.  DEFINITELY LOOK AT THE TUTORIAL AND VERIFY IT'S EVEN WORTH USING.  -->
 
 ## Tutorial
 
@@ -65,6 +75,9 @@ There is another Ionic project type for `tutorial`.  Exit out of your project, g
 
 Once you finish the tutorial, put your new lessons into action.  Create a new page called `about` that tells the user all about you.  Make sure this page is accessible from the Ionic Menu, the same way `Hello Ionic` and `My First List` are.
 
+<!--WDI4 turning over to devs 2:13 -->
+<!--WDI4 coming back 2:39, 5 minutes to talk about making a new page -->
+<!--WDI4 2:54 coming back from break -->
 <!--3:05 15 minutes-->
 
 ## Testing on your phone
@@ -86,6 +99,8 @@ Run `ionic upload`.  This will push your latest changes to Ionic.
 Log in to `Ionic View` on your phone with the same credentials.  You should now see your fancy new project.  Click on it and select `View App`.  This is the version of the app your users would see on their phone (assuming they have the same model as you).  Also notice that you can give app feedback in this interface.  Play around with it.  Seems like a real phone app, right?
 
 Also, if you want to see your Apps online, you can go to your [Ionic App Dashboard](https://apps.ionic.io/apps/)
+
+<!--3:15 WDI4, intro'd builing for iOS, and left open for independent work...getting passwords and usernames stored in Ionic took a while...I think Ionic just takes a while to update-->
 
 <!--3:20 10 minutes -->
 
