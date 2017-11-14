@@ -68,7 +68,7 @@ If you have `ionic lab` or `ionic serve` running, your page will magically refre
 
 ## Testing on your phone
 
-The easiest way to test your live app on your phone is with an app called [`Ionic View`](https://docs.ionic.io/tools/view/), available for iOS and Android.  There are two versions of this app available, one with a white background that just says "Ionic View", and one with a blue background that says "Ionic View - Test & Share Ionic Apps".  Download this app on your phone first.
+The easiest way to test your live app on your phone is with an app called [`Ionic View`](https://docs.ionic.io/tools/view/), available for iOS and Android.  There are two versions of this app available, one with a white background that just says "Ionic View", and one with a blue background that says "Ionic View - Test & Share Ionic Apps".  Download the one with a blue background onto your phone.
 
 Now go to the [Ionic Dashboard](https://dashboard.ionicjs.com) and Sign Up for a new account (unless you already have one from before).
 
