@@ -1,6 +1,7 @@
 <!--WDI3 2:34 -->
 <!--WDI4 1:43 -->
 <!--2:30 5 minutes -->
+<!--WDI5 9:08 -->
 
 # Intro to Ionic
 
@@ -18,6 +19,7 @@
 
 The idea is that one app, generated with HTML, CSS, and JS, can operate on the web, for iOS devices, for Android devices, and more.
 
+<!--WDI5 9:12 -->
 <!--2:38 WDI3 -->
 <!--2:35 15 minutes -->
 
@@ -34,6 +36,7 @@ Woo hoo, we're coding superheroes!  Now let's dive into the code.
 
 <!--WDI4 1:48 turning over to devs -->
 <!--WDI4 coming back 1:55 -->
+<!--WDI5 9:20 -->
 
 <!--2:50 WDI3 -->
 
@@ -49,6 +52,7 @@ Take a couple minutes to familiarize yourself with the files in the `src` folder
 <!--WDI4 2:00 turning over to devs -->
 <!--WDI4 coming back 2:05  -->
 <!--2:57 WDI3-->
+<!--WDI5 9:33   -->
 
 ## Make it your own
 
@@ -64,6 +68,7 @@ If you have `ionic lab` or `ionic serve` running, your page will magically refre
 <!--WDI4 turning over to devs 2:13 -->
 <!--WDI4 coming back 2:39, 5 minutes to talk about making a new page -->
 <!--WDI4 2:54 coming back from break -->
+<!--WDI5 9:37  -->
 <!--3:05 15 minutes-->
 
 ## Testing on your phone
@@ -84,6 +89,8 @@ Accept all other defaults in this linking process (new SSH key, allowing config 
 
 Once you complete all the steps, if you refresh the page you should see your app code.  Sweet, our code is live!  But Ionic is all about mobile apps.  Let's test this on a phone.
 
+<!--9:47 WDI5 -->
+
 Log in to `Ionic View` on your phone with the same credentials you used to sign up earlier (click the settings tab / gear icon to see the log in screen).  You should now see your fancy new project.  Click on it, and wait a few seconds for it to load.  This is the version of the app your users would see on their phone (assuming they have the same model as you).  Also notice that you can give app feedback in this interface.  Play around with it.  Seems like a real phone app, right?
 
 <!--3:15 WDI4, intro'd builing for iOS, and left open for independent work...getting passwords and usernames stored in Ionic took a while...I think Ionic just takes a while to update-->
@@ -100,6 +107,7 @@ In order to deploy to an iOS device, you need to go through a [little setup in X
 
 We don't have enough time to discuss Android in this class, but the process for local testing is similar to that for XCode/iOS.  Your first step is to download [Android Studio](https://developer.android.com/studio/index.html).  See the resources below for more details on deploying.
 
+<!--WDI5 10:17 turning over to devs -->
 ## Homework
 
 For homework, we would like you to take your initial `tabs` Ionic app and add some of the features we introduced during the Angular week.  Implement the following in your Ionic app:
