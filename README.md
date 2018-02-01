@@ -27,6 +27,12 @@ The idea is that one app, generated with HTML, CSS, and JS, can operate on the w
 
 The newest version of Ionic allows you to create an app in one line.  Use [this guide](https://ionicframework.com/getting-started/) to get started.
 
+A question - `Would you like to integrate your new app with Cordova to target native iOS and Android?` -  will pop up in your terminal when you run this command. Reply with `y`.
+
+Another question - `Install the free Ionic Pro SDK and connect your app?` -  will pop up in your terminal when you run this command. Reply with `y`.
+
+The set up may ask you what app to open, and you should select `Create a new app`, then enter something like `first-ionic`.
+
 There are two quick ways to run your app.
 
 1. `ionic serve` will open your app in your default web browser
@@ -44,7 +50,7 @@ Woo hoo, we're coding superheroes!  Now let's dive into the code.
 
 An Ionic app has several folders.  The two most important ones are:
 
-1. The `www` folder, which is similar to the `public` folder of our Node and Express apps.  It is the version of files that actually get loaded on the front end.
+1. The `www` folder, which is similar to the `public` folder of our Node and Express apps, or the `dist` folder of our Angular apps.  It is the version of files that actually get loaded on the front end.
 2. The `src` folder comprises the files that are compiled and combined to create the files in the `www` folder.  This is where you will do most of the editing in your Ionic app.
 
 Take a couple minutes to familiarize yourself with the files in the `src` folder.  Discuss with a partner your main takeaways from the files, and the code within them.
@@ -82,6 +88,8 @@ If you have no other apps, you should be dropped into a "Create a new app" dialo
 Input a name for your new app, and select "Create app".
 
 Follow the directions for "CONNECT EXISTING APP".
+
+You need to click a Deploy button now.
 
 When creating your first app, you will also be asked to login.  Enter the same email and password you used to sign up earlier.
 
