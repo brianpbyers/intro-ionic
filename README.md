@@ -25,13 +25,39 @@ The idea is that one app, generated with HTML, CSS, and JS, can operate on the w
 
 ## Your first app
 
-The newest version of Ionic allows you to create an app in one line.  Use [this guide](https://ionicframework.com/getting-started/) to get started.
+1. The newest version of Ionic allows you to create an app in one line.  Use [this guide](https://ionicframework.com/getting-started/) to get started.
 
-A question - `Would you like to integrate your new app with Cordova to target native iOS and Android?` -  will pop up in your terminal when you run this command. Reply with `y`.
+2. A question - `Would you like to integrate your new app with Cordova to target native iOS and Android?` -  will pop up in your terminal when you run this command. Reply with `y`.
 
-Another question - `Install the free Ionic Pro SDK and connect your app?` -  will pop up in your terminal when you run this command. Reply with `y`.
+3. Another question - `Install the free Ionic Pro SDK and connect your app?` -  will pop up in your terminal when you run this command. Reply with `y`.
 
-The set up may ask you what app to open, and you should select `Create a new app`, then enter something like `first-ionic`.
+4. The set up will then ask you for an Email and password.  If you already have an Ionic login, you can enter it here, but if not, you can just enter until the install is finished.  Then run `ionic signup` as the Terminal instructions suggest.
+
+5. This will open a web portal for you to sign up.  Fill in the form.
+
+6. This will lead you to a "Step 2" page.  Select the Kickstarter Plan (free) and then click `Select plan`.
+
+7. Select `Get started with Pro`.
+
+8.  Type in an app name like `first-ionic` and select `Create app`
+
+9. Select `Share app`
+
+10. Select `View Instructions`
+
+11. Select `CONNECT EXISTING APP` under the 2nd instruction (you don't need to run the 1st one, you already did that earlier).
+
+12. Run the commands under the 2nd instruction, in your Terminal.  Use the same `Email` and `Password`.  Select `Automatically setup new a SSH key pair for Ionic Pro`, and type `y` to proceed.
+
+13.  Hit Enter twice to accept a blank passphrase, and type `y` to accept the changes.
+
+14. Run the following commands:
+
+  a. `git add -A`
+  b. `git commit -m "Pushing to Ionic"`
+  c. `git push ionic master`
+
+## Opening Your App
 
 There are two quick ways to run your app.
 
@@ -81,21 +107,11 @@ If you have `ionic lab` or `ionic serve` running, your page will magically refre
 
 The easiest way to test your live app on your phone is with an app called [`Ionic View`](https://docs.ionic.io/tools/view/), available for iOS and Android.  There are two versions of this app available, one with a white background that just says "Ionic View", and one with a blue background that says "Ionic View - Test & Share Ionic Apps".  Download the one with a blue background onto your phone.
 
-Now go to the [Ionic Dashboard](https://dashboard.ionicjs.com) and Sign Up for a new account (unless you already have one from before).
+Now go back to the [Ionic Dashboard](https://dashboard.ionicjs.com) page for your app.  Refresh the page.
 
-If you have no other apps, you should be dropped into a "Create a new app" dialog.  If you are not, select the "New App" button in the top-right of the screen and you will go to this "Create a new app" dialog.
+Click the Deploy button on the right hand side of the bar for `Pushing to Ionic`.
 
-Input a name for your new app, and select "Create app".
-
-Follow the directions for "CONNECT EXISTING APP".
-
-You need to click a Deploy button now.
-
-When creating your first app, you will also be asked to login.  Enter the same email and password you used to sign up earlier.
-
-Accept all other defaults in this linking process (new SSH key, allowing config changes, etc.).
-
-Once you complete all the steps, if you refresh the page you should see your app code.  Sweet, our code is live!  But Ionic is all about mobile apps.  Let's test this on a phone.
+Sweet, our code is live!  But Ionic is all about mobile apps.  Let's test this on a phone.
 
 <!--9:47 WDI5 -->
 
