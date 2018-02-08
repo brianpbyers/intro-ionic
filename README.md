@@ -2,6 +2,7 @@
 <!--WDI4 1:43 -->
 <!--2:30 5 minutes -->
 <!--WDI5 9:08 -->
+<!--WDI6 1:44 -->
 
 # Intro to Ionic
 
@@ -66,6 +67,7 @@ There are two quick ways to run your app.
 
 Woo hoo, we're coding superheroes!  Now let's dive into the code.
 
+<!--WDI6 coming back 2:15  -->
 <!--WDI4 1:48 turning over to devs -->
 <!--WDI4 coming back 1:55 -->
 <!--WDI5 9:20 -->
@@ -85,6 +87,7 @@ Take a couple minutes to familiarize yourself with the files in the `src` folder
 <!--WDI4 coming back 2:05  -->
 <!--2:57 WDI3-->
 <!--WDI5 9:33   -->
+<!--WDI6 coming back 2:26 -->
 
 ## Make it your own
 
@@ -96,6 +99,7 @@ If you have `ionic lab` or `ionic serve` running, your page will magically refre
 <!--WDI4 2:08 turning over to devs -->
 <!--WDI4 coming back 2:11  -->
 <!--2:50 15 minutes -->
+<!--WDi6 2:3  -->
 
 <!--WDI4 turning over to devs 2:13 -->
 <!--WDI4 coming back 2:39, 5 minutes to talk about making a new page -->
@@ -119,6 +123,7 @@ Log in to `Ionic View` on your phone with the same credentials you used to sign 
 
 <!--3:15 WDI4, intro'd builing for iOS, and left open for independent work...getting passwords and usernames stored in Ionic took a while...I think Ionic just takes a while to update-->
 
+<!--WDI6 2:43  -->
 <!--3:20 10 minutes -->
 
 ## Building for iOS
@@ -138,6 +143,8 @@ For homework, we would like you to take your initial `tabs` Ionic app and add so
 
 1. **`Http`**: make an API call to an open API like the [StarWars API](http://swapi.co/).  You can use [this lesson](https://github.com/den-materials/angular/blob/master/lectures/02-routing-apis/star_wars_api.md) as a reference.
 2. **Forms**: Add a new model for data that is kept in sync between an HTML form and the Typescript using `[(ngModel)]`.  You can use [this lab](https://github.com/den-materials/angular/blob/master/lectures/01-angular-basics/05-angular-directives.md) as a reference.
+
+<!--3:00 WDI6 -->
 
 ## Resources
 
